@@ -1,0 +1,11 @@
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\data\api\Dispatchers.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\data\api\MoviesApi.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\data\Main.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\data\model\MoviesEntity.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\data\repo\MoviesRepo.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\domain\MoviesCase.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\presentation\MoviesPresenter.kt
+D:\Android Projects\Multiplatform\app\src\commonMain\kotlin\sample\presentation\MoviesView.kt
+D:\Android Projects\Multiplatform\app\src\main\java\sample\data\api\Main.kt
+D:\Android Projects\Multiplatform\app\src\main\java\sample\data\Dispatchers.kt
+D:\Android Projects\Multiplatform\app\src\main\java\sample\SampleAndroid.kt
